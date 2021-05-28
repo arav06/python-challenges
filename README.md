@@ -1,8 +1,8 @@
 # Programming Hero Python Challenges
 
-These are my solutions to the python challenges created by <a href="https://github.com/ProgrammingHero1">Programming Hero</a>
+#### These are my solutions to the python challenges created by <a href="https://github.com/ProgrammingHero1">Programming Hero</a>
 
-You can have a look at their github repository <a href="https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions">here</a>
+#### You can have a look at their github repository <a href="https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions">here</a>
 
 ## Challenges Solved
 
